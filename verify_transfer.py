@@ -1,1 +1,1 @@
-
+print("Avesta verification service")
